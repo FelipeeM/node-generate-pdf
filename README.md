@@ -1,0 +1,1 @@
+PDF generation with: node, puppeteer, ejs
